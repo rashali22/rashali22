@@ -1,6 +1,6 @@
 # Hi, I'm Rashali ! 👋
 
-🎯 Full Stack Developer | Fresher | Open to Internships
+🎯 Full Stack Developer | Fresher | Open to Opportunities
 
 ## 🚀 About Me
 - 💻 Passionate **Full Stack Developer** (Fresher)
