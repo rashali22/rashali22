@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hi, I'm Rashali ! 👋
-
-🎯 Full Stack Developer | Fresher | Open to Opportunities
+ Full Stack Developer | Fresher | Open to Opportunities
 
 </div>
 
