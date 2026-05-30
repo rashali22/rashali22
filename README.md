@@ -5,12 +5,15 @@
 
 </div>
 
+
 ## 🚀 About Me
 - 💻 **Full Stack Developer** (Fresher)
 - 🎯 Passionate about building clean & responsive web experiences
 - 💼 Open to internships & fresher roles
 - 📍 Based in **Dehradun , India**
 - 📫 Reach me at: rashalibajaj22@gmail.com
+
+
 
 ## 🛠️ Tech Stack & Skills
 
@@ -31,11 +34,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+
+
 ## 📬 Let's Connect!
-I'm actively looking for internships & full stack roles!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashalibajaj22)
+I'm actively looking for internships & full stack roles — feel free to reach out!
 
-📧 rashalibajaj22@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/rashalibajaj22)
 
-
+📧 [rashalibajaj22@gmail.com](mailto:rashalibajaj22@gmail.com)
