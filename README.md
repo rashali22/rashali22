@@ -3,7 +3,7 @@
 🎯 Full Stack Developer | Fresher | Open to Opportunities
 
 ## 🚀 About Me
-- 💻 Passionate **Full Stack Developer** (Fresher)
+- 💻 **Full Stack Developer** (Fresher)
 - 🎯 Passionate about building clean & responsive web experiences
 - 💼 Open to internships & fresher roles
 - 📍 Based in **Dehradun , India**
@@ -28,12 +28,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 🤝 Let's Connect!
+## 📬 Let's Connect!
+I'm actively looking for internships & full stack roles!
 
-> 💡 *Fresher | Open to Internships & Full Stack Developer Roles | Remote & On-site*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashalibajaj22)
 
 📧 rashalibajaj22@gmail.com
-
-🔗 [LinkedIn](https://linkedin.com/in/rashalibajaj22)
 
 
